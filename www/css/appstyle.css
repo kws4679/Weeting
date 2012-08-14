@@ -1,0 +1,7 @@
+.profile {
+    width: 100px;
+    height: 100px;
+    background:url(img/loader.gif);
+    background-repeat:no-repeat;
+    background-position:50% 50%;
+}
